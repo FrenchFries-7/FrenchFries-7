@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FrenchFries-7
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on nothign as of now
+- 💞️ I’m looking to collaborate on nothing as of now
 - 📫 How to reach me: Discord- FrenchFryy#8345
 
 <!---
